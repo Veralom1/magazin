@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f28a0f68-bc64-468e-95ce-23e8d56485a1" name="Changes" comment="The main app is ready">
-      <change afterPath="$PROJECT_DIR$/goods/templates/goods/catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/templates/goods/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/urls.py" afterDir="false" />
+    <list default="true" id="f28a0f68-bc64-468e-95ce-23e8d56485a1" name="Changes" comment="Added goods app, conected catalog and product html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/goods/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/goods/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/goods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/templates/goods/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods/templates/goods/catalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/goods/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main/templates/main/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/templates/main/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709495139582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added goods app, conected catalog and product html">
+      <option name="closed" value="true" />
+      <created>1709581544245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709581544245</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="The main app is ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="The main app is ready" />
+    <MESSAGE value="Added goods app, conected catalog and product html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added goods app, conected catalog and product html" />
   </component>
 </project>
